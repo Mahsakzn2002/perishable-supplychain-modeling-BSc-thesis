@@ -17,7 +17,7 @@ Key focus areas include:
 
 - Effects of perishability and deterioration
 - Bullwhip effect in decentralized systems
-- Coordination via buy-back contracts
+- Coordination via buy-back contract
 - Profitability and waste minimization strategies
 
 ---
@@ -36,7 +36,7 @@ This project is currently under further development. Planned enhancements includ
 
 Transitioning from a deterministic to a stochastic modeling framework (e.g., uncertain demand).
 
-Replacing the constant deterioration rate with a nonlinear or time-dependent function to better reflect real-world perishability.
+Replacing the fixed deterioration rate with a nonlinear or time-dependent function to better reflect real-world perishability.
 
 General improvements in model structure, numerical experimentation, and result visualization.
 
