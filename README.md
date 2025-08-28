@@ -44,7 +44,5 @@ Quantifying the bullwhip effect to evaluate the impact of coordination on demand
 
 Stay tuned for upcoming updates.
 
-Stay tuned.
-
 
 
